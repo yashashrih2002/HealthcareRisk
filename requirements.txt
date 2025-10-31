@@ -1,0 +1,8 @@
+#the requirments of this tasks are
+1. pandas
+2. scikit-learn
+3. matplotlib
+4. seaborn
+5. flask
+6. streamlit
+7. joblib
